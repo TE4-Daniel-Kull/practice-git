@@ -1,2 +1,2 @@
 # Our cool project
-_this is a subtitle_
+*this is a subtitle*
